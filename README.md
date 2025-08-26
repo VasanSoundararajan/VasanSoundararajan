@@ -1,7 +1,3 @@
-Of course! Here is an enhanced version of your GitHub profile README, incorporating the new points about being a GenAI expert and an open-source contributor, along with more technical details and a stronger structure.
-
----
-
 # 👋 Hi, I'm @Vasan
 
 ### GenAI Expert & Open Source Contributor building the next generation of intelligent systems.
@@ -49,7 +45,7 @@ I'm fascinated by creating seamless, intelligent workflows. Using tools like **N
 ### Open Source Contributions
 <!-- Replace these with your actual contributions! -->
 - **[LangChain](link-to-your-pr-or-issue):** Enhanced documentation for the RAG module, making it more accessible for new developers.
-- **[Awesome-Project](link-to-your-pr-or-issue):** Fixed a critical bug in the data processing pipeline, improving performance by 15%.
+- **[Awesome-Project](https://github.com/Vaibhav2154/PyEveryday/pull/44):** Fixed a critical bug in the data processing pipeline, improving performance by 15%.
 
 ---
 
