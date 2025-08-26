@@ -44,8 +44,8 @@ I'm fascinated by creating seamless, intelligent workflows. Using tools like **N
 
 ### Open Source Contributions
 <!-- Replace these with your actual contributions! -->
-- **[LangChain](link-to-your-pr-or-issue):** Enhanced documentation for the RAG module, making it more accessible for new developers.
-- **[Awesome-Project](https://github.com/Vaibhav2154/PyEveryday/pull/44):** Fixed a critical bug in the data processing pipeline, improving performance by 15%.
+- **[Fit_Ai](https://github.com/Nikhil210206/FitYou---Fit_Ai/pull/46):** Frist ever contribution to a Full-Stack project.
+- **[PyEveryday](https://github.com/Vaibhav2154/PyEveryday/pull/44):** Added and implemented the Prediction model, improving performance by 15%.
 
 ---
 
